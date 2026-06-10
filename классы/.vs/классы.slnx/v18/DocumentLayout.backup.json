@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tanus\\OneDrive\\Desktop\\\u041C\u0438\u0440\u043E\u0448\u043D\u0438\u0447\u0435\u043D\u043A\u043E (Visual Studio)\\\u043A\u043B\u0430\u0441\u0441\u044B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{058FB367-1060-4F55-9846-566D86345995}|\u043A\u043B\u0430\u0441\u0441\u044B\\\u043A\u043B\u0430\u0441\u0441\u044B.csproj|c:\\users\\tanus\\onedrive\\desktop\\\u043C\u0438\u0440\u043E\u0448\u043D\u0438\u0447\u0435\u043D\u043A\u043E (visual studio)\\\u043A\u043B\u0430\u0441\u0441\u044B\\\u043A\u043B\u0430\u0441\u0441\u044B\\road.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058FB367-1060-4F55-9846-566D86345995}|\u043A\u043B\u0430\u0441\u0441\u044B\\\u043A\u043B\u0430\u0441\u0441\u044B.csproj|solutionrelative:\u043A\u043B\u0430\u0441\u0441\u044B\\road.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058FB367-1060-4F55-9846-566D86345995}|\u043A\u043B\u0430\u0441\u0441\u044B\\\u043A\u043B\u0430\u0441\u0441\u044B.csproj|c:\\users\\tanus\\onedrive\\desktop\\\u043C\u0438\u0440\u043E\u0448\u043D\u0438\u0447\u0435\u043D\u043A\u043E (visual studio)\\\u043A\u043B\u0430\u0441\u0441\u044B\\\u043A\u043B\u0430\u0441\u0441\u044B\\roads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058FB367-1060-4F55-9846-566D86345995}|\u043A\u043B\u0430\u0441\u0441\u044B\\\u043A\u043B\u0430\u0441\u0441\u044B.csproj|solutionrelative:\u043A\u043B\u0430\u0441\u0441\u044B\\roads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Roads.cs",
+              "DocumentMoniker": "C:\\Users\\tanus\\OneDrive\\Desktop\\\u041C\u0438\u0440\u043E\u0448\u043D\u0438\u0447\u0435\u043D\u043A\u043E (Visual Studio)\\\u043A\u043B\u0430\u0441\u0441\u044B\\\u043A\u043B\u0430\u0441\u0441\u044B\\Roads.cs",
+              "RelativeDocumentMoniker": "\u043A\u043B\u0430\u0441\u0441\u044B\\Roads.cs",
+              "ToolTip": "C:\\Users\\tanus\\OneDrive\\Desktop\\\u041C\u0438\u0440\u043E\u0448\u043D\u0438\u0447\u0435\u043D\u043A\u043E (Visual Studio)\\\u043A\u043B\u0430\u0441\u0441\u044B\\\u043A\u043B\u0430\u0441\u0441\u044B\\Roads.cs",
+              "RelativeToolTip": "\u043A\u043B\u0430\u0441\u0441\u044B\\Roads.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T13:49:11.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Road.cs",
+              "DocumentMoniker": "C:\\Users\\tanus\\OneDrive\\Desktop\\\u041C\u0438\u0440\u043E\u0448\u043D\u0438\u0447\u0435\u043D\u043A\u043E (Visual Studio)\\\u043A\u043B\u0430\u0441\u0441\u044B\\\u043A\u043B\u0430\u0441\u0441\u044B\\Road.cs",
+              "RelativeDocumentMoniker": "\u043A\u043B\u0430\u0441\u0441\u044B\\Road.cs",
+              "ToolTip": "C:\\Users\\tanus\\OneDrive\\Desktop\\\u041C\u0438\u0440\u043E\u0448\u043D\u0438\u0447\u0435\u043D\u043A\u043E (Visual Studio)\\\u043A\u043B\u0430\u0441\u0441\u044B\\\u043A\u043B\u0430\u0441\u0441\u044B\\Road.cs",
+              "RelativeToolTip": "\u043A\u043B\u0430\u0441\u0441\u044B\\Road.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T13:48:38.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

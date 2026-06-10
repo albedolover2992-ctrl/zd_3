@@ -1,0 +1,6 @@
+C:\Users\tanus\OneDrive\Desktop\Мирошниченко (Visual Studio)\классы\классы\bin\Debug\классы.dll
+C:\Users\tanus\OneDrive\Desktop\Мирошниченко (Visual Studio)\классы\классы\bin\Debug\классы.pdb
+C:\Users\tanus\OneDrive\Desktop\Мирошниченко (Visual Studio)\классы\классы\obj\Debug\классы.csproj.AssemblyReference.cache
+C:\Users\tanus\OneDrive\Desktop\Мирошниченко (Visual Studio)\классы\классы\obj\Debug\классы.csproj.CoreCompileInputs.cache
+C:\Users\tanus\OneDrive\Desktop\Мирошниченко (Visual Studio)\классы\классы\obj\Debug\классы.dll
+C:\Users\tanus\OneDrive\Desktop\Мирошниченко (Visual Studio)\классы\классы\obj\Debug\классы.pdb

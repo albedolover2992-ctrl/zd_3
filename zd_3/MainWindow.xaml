@@ -1,0 +1,50 @@
+﻿<Window x:Class="zd_3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:zd_3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="1200">
+    <Grid>
+        <StackPanel x:Name="Road_create" Orientation="Vertical" HorizontalAlignment="Left" VerticalAlignment="Top" Width="400">
+            <Label Content="Дороги" Background="Aqua" FontSize="20" Foreground="White" Height="40" Width="400"/>
+            <TextBox x:Name="Name_text" Width="400" ToolTip="Название дороги"/>
+            <TextBox x:Name="Number_text" Width="400" ToolTip="Кол-во дорожных линий"/>
+            <TextBox x:Name="Width_text" Width="400" ToolTip="Ширина дороги"/>
+            <TextBox x:Name="Lenght_text" Width="400" ToolTip="Длина дороги"/>
+            <TextBox x:Name="Weight_text" Width="400" ToolTip="Масса дорожного покрытия"/>
+            <TextBox x:Name="P_text" Width="400" ToolTip="Число p"/>
+            <TextBox x:Name="Direction_text" Width="400" ToolTip="Маршрут"/>
+            <TextBox x:Name="Index_text" Width="400" ToolTip="Индекс элемента, который нужно удалить"/>
+            <TextBox x:Name="Info_text" Width="400" IsReadOnly="True" Height="50"/>
+            <Button x:Name="Add" Content="Добавить" Click="Add_Click" Background="Aqua" Foreground="White"/>
+            <Button x:Name="Delete_index" Content="Удалить по индексу" Click="Delete_index_Click" Background="Coral" Foreground="White"/>
+            <Button x:Name="Delete_object" Content="Удалить выделенный" Click="Delete_object_Click" Background="Coral" Foreground="White"/>
+            <Button x:Name="Info" Content="Просмотреть информацию" Click="info_Click" Background="Aqua" Foreground="White"/>
+        </StackPanel>
+
+        <StackPanel x:Name="Road_list" Orientation="Vertical" HorizontalAlignment="Right" VerticalAlignment="Top" Width="800">
+            <Label Content="Дороги" Background="Aqua" FontSize="20" Foreground="White" Height="40" Width="800"/>
+            <DataGrid x:Name="Grid" AutoGenerateColumns="False" SelectionMode="Extended" ToolTip="Список" FontSize="20" Height="350" Background="LightGray" IsReadOnly="True" RenderTransformOrigin="0.5,0.5">
+                <DataGrid.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform AngleY="0"/>
+                        <RotateTransform/>
+                        <TranslateTransform Y="0"/>
+                    </TransformGroup>
+                </DataGrid.RenderTransform>
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Имя" Binding="{Binding Name}"/>
+                    <DataGridTextColumn Header="Дорожные линии" Binding= "{Binding Number}"/>
+                    <DataGridTextColumn Header="Ширина" Binding="{Binding Width}"/>
+                    <DataGridTextColumn Header="Длина" Binding="{Binding Lenght}"/>
+                    <DataGridTextColumn Header="Масса покрытия" Binding="{Binding Weight}"/>
+                    <DataGridTextColumn Header="Число Р" Binding="{Binding P}"/>
+                    <DataGridTextColumn Header="Маршрут" Binding="{Binding Direction}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+    </Grid>
+</Window>
